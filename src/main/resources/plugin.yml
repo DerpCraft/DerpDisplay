@@ -1,0 +1,8 @@
+author: iTidez
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.itidez.plugins.derpdisplay.Derpdisplay
+name: DerpDisplay
+startup: postworld
+url: http://derpcraft.co/
+version: '1.0'
