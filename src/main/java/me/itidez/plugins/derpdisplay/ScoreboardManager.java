@@ -131,7 +131,7 @@ public class ScoreboardManager {
 		}
 	}
  
-    private void sendPacket(Player player, Packet packet) {
-        ((CraftPlayer) player).getHandle().playerConnection.sendPacket(packet);
-    }
+        private void sendPacket(Player player, Packet packet) {
+            ((CraftPlayer) player).getHandle().playerConnection.sendPacket(packet);
+        }
 }
